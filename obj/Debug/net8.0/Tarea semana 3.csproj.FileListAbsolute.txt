@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\bin\Debug\net8.0\Tarea semana 3.exe
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\bin\Debug\net8.0\Tarea semana 3.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\bin\Debug\net8.0\Tarea semana 3.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\bin\Debug\net8.0\Tarea semana 3.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\bin\Debug\net8.0\Tarea semana 3.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\obj\Debug\net8.0\Tarea semana 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\obj\Debug\net8.0\Tarea semana 3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\obj\Debug\net8.0\Tarea semana 3.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\obj\Debug\net8.0\Tarea semana 3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\obj\Debug\net8.0\Tarea semana 3.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\obj\Debug\net8.0\refint\Tarea semana 3.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\obj\Debug\net8.0\Tarea semana 3.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\obj\Debug\net8.0\Tarea semana 3.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Tarea semana 3\Tarea semana 3\obj\Debug\net8.0\ref\Tarea semana 3.dll
